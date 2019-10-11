@@ -1,0 +1,57 @@
+body {
+    background-color: aquamarine
+}
+
+.navigation {
+    height: 60px;
+    background-color: darkred;
+
+}
+
+.navbar {
+    display: flex;
+    margin-top: 28px;
+    border-top: 28px;
+
+
+}
+
+.list-item {
+    padding: 20px;
+    color: white;
+    list-style: none;
+    font-weight: 800;
+    font-family: cursive;
+
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+h3,
+h4 {
+    color: darkred;
+}
+
+.about-img {
+    float: left;
+    border-right: 30px solid aquamarine
+}
+
+.course {
+    width: 24%;
+    float: left;
+    padding: 0.5%
+}
+
+.course img {
+    width: 100%;
+    height: 150px;
+    border-radius: 5%
+}
+
+.testimonials {
+    clear: left;
+}
